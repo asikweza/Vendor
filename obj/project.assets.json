@@ -211,13 +211,13 @@
     },
     "Vendor.DataAccess/1.0.0": {
       "type": "project",
-      "path": "C:\\Users\\ashleys\\source\\repos\\Vendor.DataAccess\\Vendor.DataAccess.csproj",
-      "msbuildProject": "C:\\Users\\ashleys\\source\\repos\\Vendor.DataAccess\\Vendor.DataAccess.csproj"
+      "path": "../../source/repos/Vendor.DataAccess/Vendor.DataAccess.csproj",
+      "msbuildProject": "../../source/repos/Vendor.DataAccess/Vendor.DataAccess.csproj"
     },
     "Vendor.Entities/1.0.0": {
       "type": "project",
-      "path": "C:\\Users\\ashleys\\source\\repos\\Vendor.Entities\\Vendor.Entities.csproj",
-      "msbuildProject": "C:\\Users\\ashleys\\source\\repos\\Vendor.Entities\\Vendor.Entities.csproj"
+      "path": "../../source/repos/Vendor.Entities/Vendor.Entities.csproj",
+      "msbuildProject": "../../source/repos/Vendor.Entities/Vendor.Entities.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -235,11 +235,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Vendor\\Vendor.csproj",
+      "projectUniqueName": "C:\\Users\\ashleys\\Desktop\\Vendor\\Vendor.csproj",
       "projectName": "Vendor",
-      "projectPath": "D:\\Vendor\\Vendor.csproj",
+      "projectPath": "C:\\Users\\ashleys\\Desktop\\Vendor\\Vendor.csproj",
       "packagesPath": "C:\\Users\\ashleys\\.nuget\\packages\\",
-      "outputPath": "D:\\Vendor\\obj\\",
+      "outputPath": "C:\\Users\\ashleys\\Desktop\\Vendor\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
