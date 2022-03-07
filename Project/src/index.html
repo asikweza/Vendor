@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <!-- Metadata for the site. -->
+    </head>
+ 
+    <body>
+        <!-- Content the viewer will see. -->
+				<h1 class="header">Vending Machine</h1>
+
+				<div>
+					<form action="/buyStuff">
+						<label for="insertMoney">Insert Money:</label>
+						<input type="text" id="insertMoney" name="insertMoney">
+						<label for="change">Change:</label>
+						<input type="text" id="change" name="change">
+					</form>
+				</div>
+				
+
+				<h2 class="header2">Select an item</h2>
+				<div class="productsColumn">
+					<form action="/products">
+						<label for="sprite">Sprite</label>
+						<input type="radio" id="sprite" name="sprite">
+						<label for="pepsi">Pepsi</label>
+						<input type="radio" id="sprite" name="sprite">
+						<label for="lemonade">Lemonade</label>
+						<input type="radio" id="sprite" name="sprite">
+						<label for="coke">Coke</label>
+						<input type="radio" id="sprite" name="sprite">
+						<label for="water">Water</label>
+						<input type="radio" id="sprite" name="sprite">
+						<label for="beer">Beer</label>
+						<input type="radio" id="sprite" name="sprite">
+					</form>
+				</div>
+
+				<div>
+					<button class="purchaseBtn">Purchase</button>
+					<button class="clearbtn">Clear</button>
+					<button class="cancelBtn">Cancel</button>
+				</div>
+				
+    </body>
+</html>
